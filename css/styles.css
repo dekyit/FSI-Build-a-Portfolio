@@ -1,11 +1,16 @@
 
-main-section {
- background-color:lightslategray;
+
 }
  h1 {
-color: whitesmoke;
+color: darkslateblue;
+ }
+ h2 {
+color:slategray
+ }
+ h3 {
+color:slategray
  }
 img {
-    border: radius 100px;
-    border-color: lightskyblue;
+    border-radius: 100px;
+    ;
 }
