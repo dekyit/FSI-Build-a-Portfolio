@@ -2,10 +2,10 @@
 main-section {
  background-color:lightslategray;
 }
-h1{
+ h1 {
 color: whitesmoke;
-}
+ }
 img {
-    border-radius:10px;
+    border: radius 100px;
     border-color: lightskyblue;
 }
