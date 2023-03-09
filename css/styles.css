@@ -1,6 +1,9 @@
 body {
- background-color:lightslategray
+ background-color:lightslategray;
 }
 h1{
-color: whitesmoke
+color: whitesmoke;
+}
+img {
+    border-radius: ;
 }
